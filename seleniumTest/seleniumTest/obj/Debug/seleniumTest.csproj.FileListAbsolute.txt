@@ -1,0 +1,22 @@
+E:\AIUB\10th semester\SQT\FINAL\seleniumTest\seleniumTest\bin\Debug\seleniumTest.exe.config
+E:\AIUB\10th semester\SQT\FINAL\seleniumTest\seleniumTest\bin\Debug\seleniumTest.exe
+E:\AIUB\10th semester\SQT\FINAL\seleniumTest\seleniumTest\bin\Debug\seleniumTest.pdb
+E:\AIUB\10th semester\SQT\FINAL\seleniumTest\seleniumTest\bin\Debug\WebDriver.dll
+E:\AIUB\10th semester\SQT\FINAL\seleniumTest\seleniumTest\bin\Debug\WebDriver.Support.dll
+E:\AIUB\10th semester\SQT\FINAL\seleniumTest\seleniumTest\bin\Debug\WebDriver.xml
+E:\AIUB\10th semester\SQT\FINAL\seleniumTest\seleniumTest\bin\Debug\WebDriver.Support.xml
+E:\AIUB\10th semester\SQT\FINAL\seleniumTest\seleniumTest\obj\Debug\seleniumTest.csprojResolveAssemblyReference.cache
+E:\AIUB\10th semester\SQT\FINAL\seleniumTest\seleniumTest\obj\Debug\seleniumTest.csproj.CoreCompileInputs.cache
+E:\AIUB\10th semester\SQT\FINAL\seleniumTest\seleniumTest\obj\Debug\seleniumTest.exe
+E:\AIUB\10th semester\SQT\FINAL\seleniumTest\seleniumTest\obj\Debug\seleniumTest.pdb
+E:\AIUB\10th semester\SQT\B_Team Neptune Spear\seleniumTest\seleniumTest\bin\Debug\seleniumTest.exe.config
+E:\AIUB\10th semester\SQT\B_Team Neptune Spear\seleniumTest\seleniumTest\bin\Debug\seleniumTest.exe
+E:\AIUB\10th semester\SQT\B_Team Neptune Spear\seleniumTest\seleniumTest\bin\Debug\seleniumTest.pdb
+E:\AIUB\10th semester\SQT\B_Team Neptune Spear\seleniumTest\seleniumTest\bin\Debug\WebDriver.dll
+E:\AIUB\10th semester\SQT\B_Team Neptune Spear\seleniumTest\seleniumTest\bin\Debug\WebDriver.Support.dll
+E:\AIUB\10th semester\SQT\B_Team Neptune Spear\seleniumTest\seleniumTest\bin\Debug\WebDriver.xml
+E:\AIUB\10th semester\SQT\B_Team Neptune Spear\seleniumTest\seleniumTest\bin\Debug\WebDriver.Support.xml
+E:\AIUB\10th semester\SQT\B_Team Neptune Spear\seleniumTest\seleniumTest\obj\Debug\seleniumTest.csprojResolveAssemblyReference.cache
+E:\AIUB\10th semester\SQT\B_Team Neptune Spear\seleniumTest\seleniumTest\obj\Debug\seleniumTest.csproj.CoreCompileInputs.cache
+E:\AIUB\10th semester\SQT\B_Team Neptune Spear\seleniumTest\seleniumTest\obj\Debug\seleniumTest.exe
+E:\AIUB\10th semester\SQT\B_Team Neptune Spear\seleniumTest\seleniumTest\obj\Debug\seleniumTest.pdb
